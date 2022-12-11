@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "mernecommerce-370805",
+  "private_key_id": "69792fa3cb68621f49345ff2d8c2e46f448aba42",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQC0a07doRWePM0h\nT22a/wHCBFHWwfCubjriRH8tggxJDlVcXpE9+Y6oDS8fh1hHCILQmUzEMlGyJot0\nHVyPjg2GBon5rF7M00dJXGYPugv7vwQw+eVa88ldu1r1zcU8TtUsyDbY0c+zRToa\nOwTfIohtzWzzC9AxaND/pwsktInuW4hie9bSlEFWkycPJJ7azxVGRFh5YibeFCzN\nef0sOfUIAu7NoSTqKXTNKBamXc+vlou0qDGSTWHcIWuKgC3BimMjb4+Aa7JAXCPA\n1NGQI9ZLkU86tifYEh+a4ZL0WGMIBylUm/w6NYfUr155Fy+W6sVsinhWzG7/yBGY\ndaKJDFZnAgMBAAECggEAIdLuVamR8nkGogSQkVrWewexShhQ5Xq/6lSaHS+A2x9n\nTGpkQ2CqaIIUQA5xM9v6Hl5nIG8olsQYJ9wrUrR4f5RxQJAas762YiAC+FbSUU+F\n2yK2Z39F1J8/1c5OeFh1KbCda7el/z9uvaUr7CM+vYsiLkycKu8yI4OvGKIKK9fH\nDvg6rjUK3hX8jObgrs4hzY1g29Smd1bVpON6X0HHIDptXnxsoesvIqIyDLyOD0MT\nA9Bz3IDOYqUZWhnfFtYpzLR9aQDa2YojO2ac6l8AROtsb0yR7vqwOQpljjrTCbB2\ny9MTqIxgmllm7lzX2awW+8hHWMuu7B2kw3UmlvzewQKBgQDxlj7WoMduGM5mYjUx\nG7SKOmdIHZ1pmGzvgAp4Gh/yqT0oSn7N833dq8Hb3/wVu2inCSxp7jW8sAGWp4wd\n2oQQ2AaMHHEJ1KLS7Pq7QmerRc6mEtxd0O/w+xiIUwzXRUMNXiRLJPCSwzfc85jh\nNt14F72DqEp3Mf+wd8FdwXRPpwKBgQC/Ltk28S7zPhWKeSuHLEGbsLvqds2JTBXW\nLls7C95ZIXOTbKq9QrRHHTRVkj+J+P1UV5FUthH67GXsbUncPEz5G/38w87n1kS2\nZtIsXoJ4eJqOAyXzKtKlukk7dNAhJLHTd/8VZ7ytVgRJwla+q3qlQDrqGHJzfWLZ\nQ+so6KabQQKBgAJzjNWusfdbBxUg3/tMlatlZlDkBAnjQw+3E+QeF77lmrpC70B1\nvQw3xvLNNgieazRusmWsxhzRCGMX9iMDaZ2mI4LecwMvhitvvieSR+0D+1HSFSxa\nh2TBl4Einpm8mS6Uive8OziyBGoYiq+WV+71BrZESeUlu7t1q5+g6+Y3AoGAcsy1\n4Bj5QVShaLIT4ipABzYb0NGf3/bREfhqDc21qT2+AeN5rwXz7NPrjgqwnq/lppSi\njwR5TXxQQ6Toehe3fMpDPFlzz6DJR+H8CGqD28VHwUjArACl1qBCwzIEnDJFmZ7v\njDHriQYiswvAPOQJVFt6RQGDEDhVd/MhrUHucUECgYAhW1c1MbED0XB1BQa8L9Yl\nSsJBz2HsrjgEJKP6XhJicDoPyL/+VURlJSCg6QR+ftVt637SNczEH4DOAtS45aeI\nSWZN7ErjIoXlRRP8p+4l2XNfJ6QnTfy4Q+7eU9OlFEhzZW48wKZkPo0DA3/d4glU\nUKI2DOGQnKHUrSTpOdAjFw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "mernproject@mernecommerce-370805.iam.gserviceaccount.com",
+  "client_id": "103315830648488583146",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mernproject%40mernecommerce-370805.iam.gserviceaccount.com"
+}

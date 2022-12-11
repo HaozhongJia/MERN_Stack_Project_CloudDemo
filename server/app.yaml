@@ -1,0 +1,13 @@
+runtime: nodejs16
+
+handlers:
+
+  - url: /client
+    static_dir: build/index.html
+
+  - url: /.*
+    secure: always
+    redirect_http_response_code: 301
+    script: auto
+
+service: server
